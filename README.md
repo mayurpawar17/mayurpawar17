@@ -24,8 +24,8 @@ I'm a passionate software developer. I specialize in JavaScript, React, and Node
 - **Frontend**: React, HTML, CSS, TailwindCSS
 - **Backend**: Node.js, Express
 - **Databases**: MongoDB, PostgreSQL, MySQL, Oracle
-<!-- **DevOps**: Docker, Kubernetes, AWS, GitHub Actions -->
 - **Tools**: Git, VS Code, Postman, Figma
+  <!-- **DevOps**: Docker, Kubernetes, AWS, GitHub Actions -->
 
 ## Projects
 | Project | Description | Technologies |
@@ -40,5 +40,5 @@ I'm a passionate software developer. I specialize in JavaScript, React, and Node
 
 ## Let's Connect!
 - 📧 Email: mayurpawar4908@gmail.com
-- 💼 LinkedIn: [mayurpawar17](https://linkedin.com/in/yourusername)
+- 💼 LinkedIn: [mayurpawar17](https://linkedin.com/in/mayurpawar17)
 <!-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com) -->
