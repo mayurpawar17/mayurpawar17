@@ -1,16 +1,36 @@
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7VLakGxXY3xoBe7Tn4yhk2mhhvZrfWLCV3HpZOvJcdVrXaYUR3pRrpFXb8IEEM_IxCTmQCSCAK2I_QedxEAxR8Y0mV418qCg-CRMctCB93CtJlU9ZpvNLvVEwXKYV0VN7ZOcubBVJeSw/s1600/2000_600px.gif" alt="Android developer"  >
-<h1 align="center">Hi 👋, I'm Mayur Pawar</h1>
-<h3 align="center">Android Developer</h3>
+# Hi, I'm Mayur Pawar 👋
+### Full-Stack Developer | Open Source Contributor
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 
+## About Me
+I'm a passionate software developer. I specialize in JavaScript, React, and Node.js, and I love contributing to open-source projects. Currently, I am working on Android Development.
 
-- 🌱 I’m currently learning **Java & Kotlin , Android Development**
+<!--🔭 **Currently Working On**: A SaaS platform for project management. 
+🌱 **Learning**: Java Full Stack Development.  
+💬 **Ask Me About**: Web development, APIs, and open-source contributions.  
+⚡ **Fun Fact**: I once automated my entire morning routine with Python!--> 
 
-- 📫 How to reach me **mayurpawar4908@gmail.com**
+## Skills
+- **Frontend**: React, HTML, CSS, TailwindCSS
+- **Backend**: Node.js, Express
+- **Databases**: MongoDB, PostgreSQL, MySQL, Oracle
+<!-- **DevOps**: Docker, Kubernetes, AWS, GitHub Actions -->
+- **Tools**: Git, VS Code, Postman, Figma
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mayurpawar17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayurpawar17" height="30" width="40" /></a>
-</p>
+## Projects
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| [Taskify](https://github.com/yourusername/taskify) | A task management app with real-time collaboration. | React, Node.js, MongoDB |
+| [Blogify](https://github.com/yourusername/blogify) | A blogging platform with Markdown support. | Next.js, Firebase |
+| [DevConnect](https://github.com/yourusername/devconnect) | A social network for developers. | React, GraphQL, PostgreSQL |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+## GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+## Let's Connect!
+- 📧 Email: mayurpawar4908@gmail.com
+- 💼 LinkedIn: [mayurpawar17](https://linkedin.com/in/yourusername)
+<!-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com) -->
