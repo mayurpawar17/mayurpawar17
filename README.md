@@ -26,13 +26,13 @@ I'm a passionate software developer. I specialize in JavaScript, React, and Node
 - **Databases**: MongoDB, PostgreSQL, MySQL, Oracle
 - **Tools**: Git, VS Code, Postman, Figma
   <!-- **DevOps**: Docker, Kubernetes, AWS, GitHub Actions -->
-
+<!--
 ## Projects
 | Project | Description | Technologies |
 |---------|-------------|--------------|
 | [Taskify](https://github.com/yourusername/taskify) | A task management app with real-time collaboration. | React, Node.js, MongoDB |
 | [Blogify](https://github.com/yourusername/blogify) | A blogging platform with Markdown support. | Next.js, Firebase |
-| [DevConnect](https://github.com/yourusername/devconnect) | A social network for developers. | React, GraphQL, PostgreSQL |
+| [DevConnect](https://github.com/yourusername/devconnect) | A social network for developers. | React, GraphQL, PostgreSQL |  -->
 
 ## GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
