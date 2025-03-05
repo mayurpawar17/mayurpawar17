@@ -1,7 +1,7 @@
 # Hi, I'm Mayur Pawar 👋🏻
 ### Full-Stack Developer | Open Source Contributor
 
-
+<!--
 ## 🚀 Programming Languages & Technologies
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
@@ -48,6 +48,9 @@ I'm a passionate software developer. I specialize in JavaScript, React, and Node
 ![Mayur's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayurpawar17&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayurpawar17&layout=pie)](https://github.com/mayurpawar17/github-readme-stats)
+
+
+-->
 
 ## Let's Connect!
 - 📧 Email: mayurpawar4908@gmail.com
