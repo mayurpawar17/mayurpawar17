@@ -30,7 +30,7 @@ I'm a passionate software developer. I specialize in JavaScript, React, and Node
 💬 **Ask Me About**: Web development, APIs, and open-source contributions.  
 ⚡ **Fun Fact**: I once automated my entire morning routine with Python!--> 
 
-## Skills
+<!--  ## Skills
 - **Frontend**: React, HTML, CSS, TailwindCSS
 - **Backend**: Node.js, Express
 - **Databases**: MongoDB, PostgreSQL, MySQL, Oracle
@@ -44,13 +44,13 @@ I'm a passionate software developer. I specialize in JavaScript, React, and Node
 | [Blogify](https://github.com/yourusername/blogify) | A blogging platform with Markdown support. | Next.js, Firebase |
 | [DevConnect](https://github.com/yourusername/devconnect) | A social network for developers. | React, GraphQL, PostgreSQL |  -->
 
-## GitHub Stats
-![Mayur's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayurpawar17&show_icons=true)
+<!--## GitHub Stats -->
+ <!-- ![Mayur's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayurpawar17&show_icons=true) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayurpawar17&layout=pie)](https://github.com/mayurpawar17/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayurpawar17&layout=pie)](https://github.com/mayurpawar17/github-readme-stats) -->
 
 
--->
+
 
 ## Let's Connect!
 - 📧 Email: mayurpawar4908@gmail.com
