@@ -1,4 +1,4 @@
-# Hi, I'm Mayur Pawar 👋
+# Hi, I'm Mayur Pawar 👋🏻
 ### Full-Stack Developer | Open Source Contributor
 ![Java](https://img.shields.io/badge/-Java-f4e4?logo=java&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white)
