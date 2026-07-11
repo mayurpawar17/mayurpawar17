@@ -1,58 +1,242 @@
-# Hi, I'm Mayur Pawar 👋🏻
-### Full-Stack Developer | Open Source Contributor
 
-<!--
-## 🚀 Programming Languages & Technologies
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![XML](https://img.shields.io/badge/-XML-FF6600?logo=xml&logoColor=white)
+<div align="center">
 
-## 📱 Frameworks & Tools
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+# 👋 Hi, I'm Mayur Pawar
 
-## 🎨 Design & UI/UX
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?logo=adobe-xd&logoColor=white)
+### 🚀 Full Stack Developer | Java Backend Developer | Flutter Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+Developer;Flutter+Mobile+Developer;REST+API+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=mayurpawar17&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="views"/>
+  <img src="https://img.shields.io/github/followers/mayurpawar17?style=for-the-badge" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/mayurpawar17?affiliations=OWNER&style=for-the-badge" alt="stars"/>
+</p>
+
+</div>
+
+---
+
+# 💫 About Me
+
+💻 Passionate **Full Stack Developer** who enjoys building scalable applications from backend APIs to mobile apps.
+
+- 🌱 Currently mastering **Spring Boot, Microservices, Docker, CI/CD & AWS**
+- 💙 Love building clean REST APIs
+- 📱 Experienced in Flutter Mobile Development
+- ⚡ Strong interest in Backend Architecture
+- 🔥 Learning System Design & DevOps
+- 🎯 Goal: Become a Senior Backend Engineer
+
+---
+
+# 🛠 Tech Stack
+
+## 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,dart,javascript" />
+</p>
+
+---
+
+## ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,maven" />
+</p>
+
+**Also Worked With**
+
+- Spring Boot
+- Spring Security
+- Spring Data JPA
+- Hibernate
+- REST APIs
+- JWT Authentication
+- WebSocket
+
+---
+
+## 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,vite" />
+</p>
+
+---
+
+## 📱 Mobile
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,firebase" />
+</p>
+
+---
+
+## 🗄 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase" />
+</p>
+
+---
+
+## ☁️ Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,githubactions,git,github,linux" />
+</p>
+
+---
+
+## 🧰 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,idea,postman,androidstudio,figma" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 💰 Smart Expense Tracker
+
+AI-powered expense tracker with Spring Boot backend.
+
+**Tech**
+
+- Spring Boot
+- PostgreSQL
+- Docker
+- JWT
+- REST API
+
+---
+
+### 🛒 E-Commerce Backend
+
+Production-ready backend using Spring Boot.
+
+Features
+
+- Authentication
+- Products
+- Orders
+- Cart
+- Categories
+- Address Management
+- JWT Security
+
+---
+
+### 📈 SIP & Mutual Fund API
+
+Backend service for Mutual Fund data.
+
+Features
+
+- Spring Boot
+- PostgreSQL
+- WebClient
+- Docker
+- REST API
+
+---
+
+### 📱 BMI FitIndex Pro
+
+Flutter application available on Play Store.
+
+Features
+
+- Provider State Management
+- Firebase
+- Clean UI
+- Responsive Design
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mayurpawar17&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mayurpawar17&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurpawar17&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mayurpawar17&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mayurpawar17&theme=tokyonight&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- Spring Boot
+- Microservices
+- RabbitMQ
+- Apache Kafka
+- Redis
+- Docker
+- Kubernetes
+- AWS
+- Jenkins
+- CI/CD
+- System Design
+
+---
+
+# 🤝 Let's Connect
+
+<p align="left">
+
+<a href="https://github.com/mayurpawar17">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/mayurpawar17">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:mayurpawar4908@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+</div>
 
 
-
-## About Me
-I'm a passionate software developer. I specialize in JavaScript, React, and Node.js, and I love contributing to open-source projects. Currently, I am working on Android Development.
-
-<!--🔭 **Currently Working On**: A SaaS platform for project management. 
-🌱 **Learning**: Java Full Stack Development.  
-💬 **Ask Me About**: Web development, APIs, and open-source contributions.  
-⚡ **Fun Fact**: I once automated my entire morning routine with Python!--> 
-
-<!--  ## Skills
-- **Frontend**: React, HTML, CSS, TailwindCSS
-- **Backend**: Node.js, Express
-- **Databases**: MongoDB, PostgreSQL, MySQL, Oracle
-- **Tools**: Git, VS Code, Postman, Figma
-  <!-- **DevOps**: Docker, Kubernetes, AWS, GitHub Actions -->
-<!--
-## Projects
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| [Taskify](https://github.com/yourusername/taskify) | A task management app with real-time collaboration. | React, Node.js, MongoDB |
-| [Blogify](https://github.com/yourusername/blogify) | A blogging platform with Markdown support. | Next.js, Firebase |
-| [DevConnect](https://github.com/yourusername/devconnect) | A social network for developers. | React, GraphQL, PostgreSQL |  -->
-
-<!--## GitHub Stats -->
- <!-- ![Mayur's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayurpawar17&show_icons=true) -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayurpawar17&layout=pie)](https://github.com/mayurpawar17/github-readme-stats) -->
-
-
-
-
-## Let's Connect!
-- 📧 Email: mayurpawar4908@gmail.com
-- 💼 LinkedIn: [mayurpawar17](https://linkedin.com/in/mayurpawar17)
-<!-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com) -->
