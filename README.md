@@ -1,11 +1,10 @@
-
-<div align="center">
+ <div align="center">
 
 # 👋 Hi, I'm Mayur Pawar
 
-### 🚀 Full Stack Developer | Java Backend Developer | Flutter Developer
+### 🚀 Full Stack Developer | Python FastAPI Developer | Flutter Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+Developer;Flutter+Mobile+Developer;REST+API+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Python+%7C+FastAPI+Developer;Flutter+Mobile+Developer;REST+API+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=mayurpawar17&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="views"/>
@@ -19,14 +18,14 @@
 
 # 💫 About Me
 
-💻 Passionate **Full Stack Developer** who enjoys building scalable applications from backend APIs to mobile apps.
+💻 Passionate **Full Stack Developer** who enjoys building scalable applications, from backend APIs to mobile apps.
 
-- 🌱 Currently mastering **Spring Boot, Microservices, Docker, CI/CD & AWS**
-- 💙 Love building clean REST APIs
+- 🌱 Currently mastering **Python, FastAPI, PostgreSQL, Docker, CI/CD & AWS**
+- 💙 Love building clean and scalable REST APIs
 - 📱 Experienced in Flutter Mobile Development
 - ⚡ Strong interest in Backend Architecture
 - 🔥 Learning System Design & DevOps
-- 🎯 Goal: Become a Senior Backend Engineer
+- 🎯 Goal: Become a Skilled Full Stack Developer
 
 ---
 
@@ -35,7 +34,7 @@
 ## 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,dart,javascript" />
+<img src="https://skillicons.dev/icons?i=python,dart,javascript" />
 </p>
 
 ---
@@ -43,18 +42,21 @@
 ## ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,maven" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask" />
 </p>
 
-**Also Worked With**
+**Also Working With**
 
-- Spring Boot
-- Spring Security
-- Spring Data JPA
-- Hibernate
+- Python
+- FastAPI
+- Pydantic
+- SQLAlchemy
+- Alembic
 - REST APIs
 - JWT Authentication
-- WebSocket
+- OAuth2
+- Async Programming
+- API Validation & Exception Handling
 
 ---
 
@@ -93,7 +95,7 @@
 ## 🧰 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,idea,postman,androidstudio,figma" />
+<img src="https://skillicons.dev/icons?i=vscode,pycharm,postman,androidstudio,figma" />
 </p>
 
 ---
@@ -102,31 +104,34 @@
 
 ### 💰 Smart Expense Tracker
 
-AI-powered expense tracker with Spring Boot backend.
+Expense tracking application with FastAPI backend.
 
 **Tech**
 
-- Spring Boot
+- Python
+- FastAPI
 - PostgreSQL
+- SQLAlchemy
+- JWT Authentication
+- REST APIs
 - Docker
-- JWT
-- REST API
 
 ---
 
 ### 🛒 E-Commerce Backend
 
-Production-ready backend using Spring Boot.
+Backend application built using FastAPI.
 
-Features
+**Features**
 
-- Authentication
-- Products
-- Orders
-- Cart
+- User Authentication
+- Product Management
+- Order Management
+- Shopping Cart
 - Categories
 - Address Management
-- JWT Security
+- JWT Authentication
+- PostgreSQL
 
 ---
 
@@ -134,13 +139,15 @@ Features
 
 Backend service for Mutual Fund data.
 
-Features
+**Features**
 
-- Spring Boot
+- Python
+- FastAPI
 - PostgreSQL
-- WebClient
+- SQLAlchemy
+- External API Integration
 - Docker
-- REST API
+- REST APIs
 
 ---
 
@@ -148,12 +155,13 @@ Features
 
 Flutter application available on Play Store.
 
-Features
+**Features**
 
 - Provider State Management
-- Firebase
+- BMI Calculation
 - Clean UI
 - Responsive Design
+- Flutter & Dart
 
 ---
 
@@ -197,15 +205,18 @@ Features
 
 # 📚 Currently Learning
 
-- Spring Boot
-- Microservices
-- RabbitMQ
-- Apache Kafka
+- Advanced Python
+- FastAPI
+- Pydantic
+- SQLAlchemy & Alembic
+- PostgreSQL
+- Authentication & Authorization (JWT, OAuth2)
+- Async Programming
 - Redis
+- RabbitMQ
 - Docker
 - Kubernetes
 - AWS
-- Jenkins
 - CI/CD
 - System Design
 
@@ -238,5 +249,3 @@ Features
 If you like my work, consider giving a ⭐ to my repositories.
 
 </div>
-
-
